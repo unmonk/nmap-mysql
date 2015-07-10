@@ -14,6 +14,7 @@ MySQL
 USAGE:
 
 ./nmaptomysql 127.0.0.1/24
+
 (IP + Subnet)
 
 
