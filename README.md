@@ -3,11 +3,11 @@ nmap to mysql
 
 REQUIRES:
 
-Python
+-Python
 
-nmaptocsv.py (https://github.com/maaaaz/nmaptocsv)
+-nmaptocsv.py (https://github.com/maaaaz/nmaptocsv)
 
-MySQL
+-mysql-server
 
 
 
